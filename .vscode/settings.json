@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2f5398e1-a4ac-4c80-a9eb-731190ab047a/resourceGroups/build19-resourcegroup/providers/Microsoft.Web/sites/build19-django",
+    "appService.deploySubpath": ""
+}
